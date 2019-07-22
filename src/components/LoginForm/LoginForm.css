@@ -1,0 +1,24 @@
+form {
+  margin-top: 1.25em;
+}
+
+input {
+  font-size: 1.2em;
+  margin-top: 1em;
+}
+
+.error {
+  color: red;
+  font-size: .75em;
+  font-weight: 700;
+}
+
+button {
+  margin-top: 1em;
+  height: 2em;
+  border-radius: .5em;
+  font-size: .75em;
+  border: none;
+  background-color: lightblue;
+  font-weight: 700;
+}
